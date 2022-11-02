@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/Users/Miguel Angel/.p2/pool/plugins/org.hamcrest.core_1.3.0.v20180420-1519.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://hamcrest.org/JavaHamcrest/javadoc/1.3/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Miguel Angel/Documents/hamcrest-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Miguel Angel/Downloads/assertj-assertions-generator-2.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Miguel Angel/Downloads/assertj-core-3.23.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
